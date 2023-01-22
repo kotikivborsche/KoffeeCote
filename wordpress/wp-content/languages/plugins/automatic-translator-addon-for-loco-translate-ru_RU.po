@@ -1,0 +1,157 @@
+# Translation of Plugins - Automatic Translate Addon For Loco Translate - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Automatic Translate Addon For Loco Translate - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-04 00:54:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Automatic Translate Addon For Loco Translate - Development (trunk)\n"
+
+#: automatic-translator-addon-for-loco-translate.php:336
+msgid ""
+"<p style=\"font-size:16px;\">\n"
+"        <strong>Notice: %s</strong> is only compatible with Loco Translate latest version 2.4.4 or higher.\n"
+"        </br><a class=\"button button-primary\" href=\""
+msgstr ""
+"<p style=\"font-size:16px;\">\n"
+"        <strong>Внимание: %s</strong> совместим лишь с Loco Translate версии 2.4.4 или выше.\n"
+"        </br><a class=\"button button-primary\" href=\""
+
+#: automatic-translator-addon-for-loco-translate.php:326
+msgid "<br/><br/><a href=\""
+msgstr "<br/><br/><a href=\""
+
+#: automatic-translator-addon-for-loco-translate.php:312
+msgid "<div class=\"error\" style=\"padding:5px;margin-top:50px;\">Nonce verification failed! Click to <a href=\""
+msgstr "<div class=\"error\" style=\"padding:5px;margin-top:50px;\">Не удалось пройти верификацию! Нажмите чтобы <a href=\""
+
+#: automatic-translator-addon-for-loco-translate.php:230
+msgid "In order to use <strong>%s</strong> plugin, please install and activate the latest version  of <a href=\"%s\" class=\"thickbox\" title=\"%s\">%s</a>"
+msgstr "Чтобы использовать плагин <strong>%s</strong>, нужно установить и активировать последнюю версию <a href=\"%s\" class=\"thickbox\" title=\"%s\">%s</a>"
+
+#: automatic-translator-addon-for-loco-translate.php:166
+msgid "In order to use <strong>%s</strong> (version <strong>%s</strong>), Please update <a href=\"%s\" class=\"thickbox\" title=\"%s\">%s</a> official plugin to a latest version (2.4.0 or upper)"
+msgstr "Чтобы использовать <strong>%s</strong> (версии <strong>%s</strong>), нужно обновить <a href=\"%s\" class=\"thickbox\" title=\"%s\">%s</a> плагин до последней версии (2.4.0 или выше)"
+
+#: includes/Register/LocoAutomaticTranslateAddonPro.php:236
+msgid "✅ I agree to share my purchase code and email for plugin verification and to receive future updates notifications!"
+msgstr "✅ Я согласен предоставить свой код покупки и адрес электронной почты для проверки плагина и получения уведомлений о будущих обновлениях!"
+
+#: includes/Register/LocoAutomaticTranslateAddonPro.php:231
+msgid "Email Address"
+msgstr "Email"
+
+#: includes/Register/LocoAutomaticTranslateAddonPro.php:227
+msgid "Enter License code"
+msgstr "Введите код лицензии"
+
+#: includes/Register/LocoAutomaticTranslateAddonPro.php:212
+msgid "Automatic Translate Addon For Loco Translate - Premium License"
+msgstr "Аддон автоматического перевода для Loco Translate - Премиальная лицензия"
+
+#: includes/Register/LocoAutomaticTranslateAddonPro.php:178
+msgid "Your License Key"
+msgstr "Ваш лицензионный ключ"
+
+#: includes/Register/LocoAutomaticTranslateAddonPro.php:172
+msgid "Support Expiry Date"
+msgstr "Срок поддержки"
+
+#: includes/Register/LocoAutomaticTranslateAddonPro.php:165
+msgid "License Expiry Date"
+msgstr "Срок лицензии"
+
+#: includes/Register/LocoAutomaticTranslateAddonPro.php:158
+msgid "License Type"
+msgstr "Тип лицензии"
+
+#: includes/Register/LocoAutomaticTranslateAddonPro.php:151
+msgid "Invalid"
+msgstr "Недействительный"
+
+#: includes/Register/LocoAutomaticTranslateAddonPro.php:149
+msgid "Valid"
+msgstr "Действительный"
+
+#: includes/Register/LocoAutomaticTranslateAddonPro.php:146
+msgid "License Status"
+msgstr "Статус лицензии"
+
+#: includes/Register/LocoAutomaticTranslateAddonPro.php:139
+msgid "Automatic Translate Addon For Loco Translate - Premium License Status"
+msgstr "Automatic Translate Addon For Loco Translate - статус премиум-лицензии"
+
+#: includes/Feedback/class.feedback-form.php:101
+msgid "I consent to having <a href=\"https://coolplugins.net\" target=\"_blank\">Cool Plugins</a> store my email-id and other information submitted via this form, they can also respond to my inquiry."
+msgstr "Я даю согласие на то, чтобы <a href=\"https://coolplugins.net\" target=\"_blank\">Cool Plugins</a> сохраняли мой Email и другую информацию, отправленную через эту форму, они также могут отвечать на мой запрос."
+
+#: includes/Feedback/class.feedback-form.php:87
+msgid "If you have a moment, please share why you are deactivating this plugin."
+msgstr "Если у вас есть минутка, расскажите, почему вы отключаете этот плагин."
+
+#: includes/Feedback/class.feedback-form.php:74
+msgid "Quick Feedback"
+msgstr "Быстрая обратная связь"
+
+#: includes/Feedback/class.feedback-form.php:65
+#: includes/Feedback/class.feedback-form.php:139
+msgid "Please share the reason"
+msgstr "Пожалуйста, расскажите причину"
+
+#: includes/Feedback/class.feedback-form.php:64
+#: includes/Feedback/class.feedback-form.php:138
+msgid "Other"
+msgstr "Другое"
+
+#: includes/Feedback/class.feedback-form.php:60
+#: includes/Feedback/class.feedback-form.php:134
+msgid "It's a temporary deactivation"
+msgstr "Это временное отключение"
+
+#: includes/Feedback/class.feedback-form.php:56
+#: includes/Feedback/class.feedback-form.php:130
+msgid "The plugin is not working"
+msgstr "Плагин не работает"
+
+#: includes/Feedback/class.feedback-form.php:53
+#: includes/Feedback/class.feedback-form.php:127
+msgid "Please share which plugin"
+msgstr "Поделитесь, пожалуйста, какой плагин"
+
+#: includes/Feedback/class.feedback-form.php:52
+#: includes/Feedback/class.feedback-form.php:126
+msgid "I found a better plugin"
+msgstr "Я нашел плагин получше"
+
+#: includes/Feedback/class.feedback-form.php:48
+#: includes/Feedback/class.feedback-form.php:122
+msgid "The plugin didn't work as expected"
+msgstr "Плагин не работал должным образом"
+
+#: includes/ReviewNotice/class.review-notice.php:71
+msgid "Not Interested"
+msgstr "Не интересует"
+
+#: includes/ReviewNotice/class.review-notice.php:70
+msgid "I already rated it"
+msgstr "Я уже поставил оценку"
+
+#. Author URI of the plugin
+msgid "https://coolplugins.net/"
+msgstr "https://coolplugins.net/"
+
+#. Author of the plugin
+msgid "Cool Plugins"
+msgstr "Cool Plugins"
+
+#. Description of the plugin
+msgid "Auto language translator add-on for Loco Translate official plugin version 2.4.0 to translate plugins and themes translation files into any language via fully automatic machine translations via Yandex Translate Widget."
+msgstr "Auto language translator add-on for Loco Translate версии 2.4.0 является плагином для перевода плагинов и тем на любой язык с помощью автоматического машинного перевода от Яндекс Переводчик."
+
+#. Plugin Name of the plugin
+msgid "Automatic Translate Addon For Loco Translate"
+msgstr "Automatic Translate Addon For Loco Translate"
